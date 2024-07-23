@@ -4,4 +4,4 @@
 - 💞️ I try to collaborate with trust and loyalty
 - 📫 To contact me send a message 
 - 😄 Pronouns: He/Him
-- ⚡ Curiosity: I really like watching, playing and reading books
+- ⚡ Curiosity: I really like watching, playing video games and reading books
