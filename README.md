@@ -42,9 +42,3 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=O+Destino+É+Uma+Dádiva!;" />
 </h1>
 
-<div>
-<a href="https://github.com/11rafaelrf">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=11rafaelrf&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> <
-img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11rafaelrf&layout=compact&langs_count=7&theme=react" />
-![Snake animation](https://github.com/11rafaelrf/11rafaelrf/blob/output/github-contribution-grid-snake.svg)
-
